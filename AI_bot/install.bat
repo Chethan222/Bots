@@ -1,0 +1,1 @@
+pip install wikipedia speech_recognition pyttsx3 pyjokes webbrowser
